@@ -111,6 +111,8 @@ Login credentials:
 - **Password:** qwerty
 
 From the Mongo Express UI:
+<img width="1600" height="792" alt="image" src="https://github.com/user-attachments/assets/3e71fedd-f33e-4588-ba81-3624621fad6c" />
+
 
 - Create databases
 - Create collections
@@ -127,12 +129,16 @@ node server.js
 ### 🔹 Backend Features
 
 - UI available to **add users**
+- <img width="846" height="412" alt="image" src="https://github.com/user-attachments/assets/4dd1e107-99c2-4e2d-8902-5f305a3e94de" />
+
 - User details include:
   - Username
   - Email
   - Password
 - MongoDB stores the user data
 - `GET /getUsers` route:
+- <img width="714" height="372" alt="image" src="https://github.com/user-attachments/assets/163b5774-9e4c-4399-840a-3d929286a4ce" />
+
   - Fetches **all users**
   - Displays total user data from MongoDB
 
@@ -221,6 +227,8 @@ CMD ["node", "server.js"]
 ```bash
 docker build -t ashu2643/testapp .
 ```
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/1fdf3805-4801-4cce-af81-b99f2b2967c0" />
+
 
 ---
 
@@ -242,6 +250,7 @@ The image is now:
 
 - Publicly available on Docker Hub
 - Reusable by anyone
+<img width="1543" height="621" alt="image" src="https://github.com/user-attachments/assets/4d28cbfe-6df3-4a67-949c-9e0afd7f0782" />
 
 ---
 
@@ -266,3 +275,4 @@ The backend runs successfully in **detached mode** , and it shows server runnong
 - Ran the application using a public Docker image
 
 ---
+
